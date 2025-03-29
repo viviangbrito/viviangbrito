@@ -1,7 +1,7 @@
 ### Olaa! Eu sou Vivian Brito!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-meiki&show_icons=true&theme=vision-friendly-dark&hide=prs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-meiki&layout=compact&theme=vision-friendly-dark)](https://github.com/gabriel-meiki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-meiki&layout=compact&theme=vision-friendly-dark)](https://github.com/viviangbrito/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
