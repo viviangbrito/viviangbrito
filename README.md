@@ -11,7 +11,6 @@
 
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,phyton,mysql,nodejs,docker,react,figma,lightroom,azure" width="30%">
   </p> 
   
 <div style="display: inline_block"><br>
@@ -29,7 +28,7 @@
   <img align="center" alt="n8n-Icon" height="30" width="40" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
 </div>
 
-
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="20%">
  ##
  
  <div>
@@ -40,4 +39,4 @@
  </div>
 <br>
 
-<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="40%">
+
