@@ -9,6 +9,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviangbrito&show_icons=true&theme=vision-friendly-dark&hide=prs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=vision-friendly-dark)](https://github.com/viviangbrito/github-readme-stats)
 
+<div align="center"> 
+<img src= "https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=radical" width="46%" alt="stats graph" />
+
+<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
+</div>
+
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
   </p> 
@@ -38,12 +44,7 @@
  
 <br><h2></h2><br>
 
-<div align="center"> 
-<img src= "https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=radical" width="46%" alt="stats graph" />
 
-<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
-
-</div>
 <br>
   <a href="https://instagram.com/vivianbrito00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vivianbrito1200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
