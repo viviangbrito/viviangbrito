@@ -15,6 +15,11 @@
 <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
 </div>
 
+ <div align="center">
+  <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=viviangbrito&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+ </div>
+
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
   </p> 
@@ -36,11 +41,6 @@
   </p> 
 <img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="25%">
  <div>
-
- <div align="center">
-  <br><h2></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=viviangbrito&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
- </div>
  
 <br><h2></h2><br>
 
