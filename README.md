@@ -6,8 +6,6 @@
 <h2></h2>
   <br>
 
-<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="40%">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviangbrito&show_icons=true&theme=vision-friendly-dark&hide=prs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=vision-friendly-dark)](https://github.com/viviangbrito/github-readme-stats)
 
@@ -40,3 +38,6 @@
   <a href = "mailto:vivianbrito1200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vivian-brito-9281472b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+<br>
+
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="40%">
