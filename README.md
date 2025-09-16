@@ -8,9 +8,9 @@
 <div align="center"> 
 <img src= "https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=radical" width="46%" alt="stats graph" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=vision-friendly-dark)](https://github.com/viviangbrito/github-readme-stats)
-
 <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=vision-friendly-dark)](https://github.com/viviangbrito/github-readme-stats)
 </div>
 
  <div align="center">
@@ -37,11 +37,11 @@
   <h3><strong> 📖 Currently Studying </strong></h3>
   <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="15%">   
   </p> 
-<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="25%">
  <div>
- 
+
 <br><h2></h2><br>
 
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="25%">
 
 <br>
   <a href="https://instagram.com/vivianbrito00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
