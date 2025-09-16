@@ -6,14 +6,21 @@
 <h2></h2>
   <br>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=merko&show_icons=true" width="46%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=merko&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="Estatísticas de Sequência" />
-  <br>
-  <a href="https://github.com/viviangbrito/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=merko" alt="Linguagens Mais Usadas" />
-  </a>
-</div>
+<table align="center">
+  <tr valign="top">
+    <td width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=merko&show_icons=true" alt="Estatísticas do GitHub" />
+    </td>
+    <td width="33%">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=merko&border_radius=4.7&show_icons=true&count_private=true" alt="Estatísticas de Sequência" />
+    </td>
+    <td width="33%">
+      <a href="https://github.com/viviangbrito/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=merko" alt="Linguagens Mais Usadas" />
+      </a>
+    </td>
+  </tr>
+</table>
 
  <div align="center">
   <br><h2></h2><br>
