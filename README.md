@@ -1,5 +1,7 @@
 ### Olaa! Bem vindo!
 
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="40%">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviangbrito&show_icons=true&theme=vision-friendly-dark&hide=prs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=vision-friendly-dark)](https://github.com/viviangbrito/github-readme-stats)
 
