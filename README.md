@@ -5,6 +5,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviangbrito&show_icons=true&theme=vision-friendly-dark&hide=prs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=vision-friendly-dark)](https://github.com/viviangbrito/github-readme-stats)
 
+  <p>
+  <h3><strong> 💻 My Skills </strong> </h3>
+  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,phyton,mysql,nodejs,docker,react,figma,lightroom,azure" width="30%">
+  </p> 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
