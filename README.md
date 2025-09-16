@@ -22,7 +22,7 @@
   <a href="https://github.com/viviangbrito/github-readme-stats" valign="top">
     <img 
       valign="top" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&theme=merko" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&theme=merko&langs_count=5"
       width="25%" 
       alt="Linguagens Mais Usadas" 
     />
