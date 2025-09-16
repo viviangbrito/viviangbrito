@@ -10,20 +10,20 @@
   <img 
     valign="top" 
     src="https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=merko&show_icons=true" 
-    width="40%" 
+    width="33%" 
     alt="Estatísticas do GitHub" 
   />
   <img 
     valign="top" 
     src="https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=merko&border_radius=4.7&show_icons=true&count_private=true" 
-    width="41%" 
+    width="33%" 
     alt="Estatísticas de Sequência" 
   />
   <a href="https://github.com/viviangbrito/github-readme-stats" valign="top">
     <img 
       valign="top" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=merko" 
-      width="15%" 
+      width="33%" 
       alt="Linguagens Mais Usadas" 
     />
   </a>
