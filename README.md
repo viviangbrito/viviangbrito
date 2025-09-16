@@ -6,7 +6,7 @@
 <h2></h2>
   <br>
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=merko&show_icons=true" width="46%" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=merko&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="Estatísticas de Sequência" />
   <br>
