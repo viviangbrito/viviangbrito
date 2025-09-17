@@ -11,20 +11,20 @@
   <img 
     valign="top" 
     src="https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=dracula&show_icons=true" 
-    width="32%" 
+    width="36%" 
     alt="Estatísticas do GitHub" 
   />
   <img 
     valign="top" 
     src="https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=dracula&border_radius=4.7&show_icons=true&count_private=true" 
-    width="32%" 
+    width="36%" 
     alt="Estatísticas de Sequência" 
   />
   <a href="https://github.com/viviangbrito/github-readme-stats" valign="top">
     <img 
       valign="top" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&theme=dracula&langs_count=5" 
-      width="32%" 
+      width="25%" 
       alt="Linguagens Mais Usadas" 
     />
   </a>
