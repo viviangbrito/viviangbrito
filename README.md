@@ -23,7 +23,7 @@
   <a href="https://github.com/viviangbrito/github-readme-stats" valign="top">
     <img 
       valign="top" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&theme=dracula&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=dracula" 
       width="25%" 
       alt="Linguagens Mais Usadas" 
     />
