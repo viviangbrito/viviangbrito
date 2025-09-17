@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&width=435&lines=Hi!+I'm+V%C3%ADvian;Welcome+to+my+Github+Page+%E2%98%BB+%E2%99%A5+" alt="Typing SVG" /></a>
-  <img align="center" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="25%">
+  <img align="center" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="30%">
   
   <br>
 </div>
@@ -16,7 +16,7 @@
     <img 
       valign="top" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=dracula" 
-      width="30%" 
+      width="36%" 
       alt="Linguagens Mais Usadas" 
     />
 </div>
