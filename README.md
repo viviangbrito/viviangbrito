@@ -51,11 +51,15 @@
     <img align="center" alt="n8n-Icon" height="30" width="40" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
   </p>
   
+  <br>
+
   <h3><strong> 📖 Currently Studying </strong></h3>
   <p>
     <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="15%">
   </p>
   
+  <br>
+
   <p>
     <a href="https://instagram.com/vivianbrito00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="mailto:vivianbrito1200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
