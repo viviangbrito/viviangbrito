@@ -20,13 +20,13 @@
     width="38%" 
     alt="Estatísticas de Sequência" 
   />
-<a href="https://github.com/viviangbrito/github-readme-stats" valign="top">
-    <img 
-      valign="top" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=dracula&width=500" 
-      alt="Linguagens Mais Usadas" 
-    />
-  </a>
+  <a href="https://github.com/viviangbrito/github-readme-stats" valign="top">
+    <img 
+      valign="top" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=dracula" 
+      width="27%" 
+      alt="Linguagens Mais Usadas" 
+    />
 </div>
 
  <div align="center">
