@@ -8,18 +8,10 @@
   <br>
 
 <div align="center">
-  <img 
-    valign="top" 
-    src="https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=dracula&show_icons=true" 
-    width="40%" 
-    alt="Estatísticas do GitHub" 
-  />
-  <img 
-    valign="top" 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=dracula&border_radius=4.7&show_icons=true&count_private=true" 
-    width="40%" 
-    alt="Estatísticas de Sequência" 
-  />
+<img src= "https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=radical" width="46%" alt="stats graph" />
+
+<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
+
   <a href="https://github.com/viviangbrito/github-readme-stats" valign="top">
     <img 
       valign="top" 
