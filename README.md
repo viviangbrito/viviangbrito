@@ -54,10 +54,9 @@
   <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="15%">   
   </p> 
  <div>
- <img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="25%">
-
-<br><h2></h2><br>
-
+<br><h2></h2>
+   <br>
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="25%">
 
 <br>
   <a href="https://instagram.com/vivianbrito00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
