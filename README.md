@@ -1,6 +1,5 @@
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D20000&width=435&lines=Hi!+I'm+V%C3%ADvian;Welcome+to+my+Github+Page+%E2%98%BB+%E2%99%A5+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&width=435&lines=Hi!+I'm+V%C3%ADvian;Welcome+to+my+Github+Page+%E2%98%BB+%E2%99%A5+" alt="Typing SVG" /></a>
   <img align="center" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="25%">
   
   <br>
@@ -11,21 +10,21 @@
 <div align="center">
   <img 
     valign="top" 
-    src="https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=merko&show_icons=true" 
-    width="36%" 
+    src="https://github-readme-stats.vercel.app/api?username=viviangbrito&theme=dracula&show_icons=true" 
+    width="32%" 
     alt="Estatísticas do GitHub" 
   />
   <img 
     valign="top" 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=merko&border_radius=4.7&show_icons=true&count_private=true" 
-    width="36%" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=dracula&border_radius=4.7&show_icons=true&count_private=true" 
+    width="32%" 
     alt="Estatísticas de Sequência" 
   />
   <a href="https://github.com/viviangbrito/github-readme-stats" valign="top">
     <img 
       valign="top" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=merko"
-      width="25%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&theme=dracula&langs_count=5" 
+      width="32%" 
       alt="Linguagens Mais Usadas" 
     />
   </a>
@@ -33,7 +32,7 @@
 
  <div align="center">
   <br><h2></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=viviangbrito&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viviangbrito&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
  </div>
 
   <p>
