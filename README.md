@@ -31,22 +31,15 @@
 <div align="center">
   <h3><strong> 💻 My Skills </strong> </h3>
   <p>
-    <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="SQLite-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-    <img align="center" alt="MySQL-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="NodeJS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Figma-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-    <img align="center" alt="n8n-Icon" height="30" width="40" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
+    <img align="center" alt="n8n-Icon" height="30" width="30" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
+    <img src="https://skillicons.dev/icons?i=html5,css3,javascript,phyton,mysql,nosql,nodejs,figma,n8n" width="20%">
   </p>
   
   <br>
 
   <h3><strong> 📖 Currently Studying </strong></h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="15%">
+    <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="20%">
   </p>
   
   <br>
