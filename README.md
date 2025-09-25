@@ -42,7 +42,7 @@
 
   <h3><strong> 📖 Currently Studying </strong></h3>
 <p style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="25%">
+    <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="35%">
   </p>
   
   <br>
