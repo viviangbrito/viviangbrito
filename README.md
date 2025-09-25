@@ -39,7 +39,7 @@
 
   <h3><strong> 📖 Currently Studying </strong></h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=azure,react,react-native,linux,docker,n8n" width="30%">
+    <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="30%">
   </p>
   
   <br>
