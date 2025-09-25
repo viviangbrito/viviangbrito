@@ -32,7 +32,7 @@
   <h3><strong> 💻 My Skills </strong> </h3>
   <p>
     <img align="center" alt="n8n-Icon" height="30" width="30" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
-    <img src="https://skillicons.dev/icons?i=html5,css3,javascript,phyton,mysql,nosql,nodejs,figma,n8n" width="20%">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,phyton,mysql,mongodb,nodejs,figma,n8n" width="20%">
   </p>
   
   <br>
