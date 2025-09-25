@@ -31,14 +31,15 @@
 <div align="center">
   <h3><strong> 💻 My Skills </strong> </h3>
   <p>
-    <img align="center" alt="n8n-Icon" height="30" width="30" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/n8n-%231A1A1A.svg?style=for-the-badge&logo=n8n&logoColor=white" height="40"/>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,mongodb,nodejs,figma,n8n" width="50%">
   </p>
 
   <p style="display: flex; align-items: center; gap: 8px;">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,mongodb,nodejs,figma" height="40"/>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/n8n-%231A1A1A.svg?style=for-the-badge&logo=n8n&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/n8n-%231A1A1A.svg?style=for-the-badge&logo=n8n&logoColor=white" height="50"/>
   </a>
 </p>
 
