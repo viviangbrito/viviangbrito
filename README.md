@@ -30,12 +30,6 @@
 
 <div align="center">
   <h3><strong> 💻 My Skills </strong> </h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,mongodb,nodejs,figma,n8n" width="50%">
-      <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/n8n-%231A1A1A.svg?style=for-the-badge&logo=n8n&logoColor=white" height="50"/>
-  </a>
-  </p>
 
 <p style="display: flex; align-items: center; gap: 8px;">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,mongodb,nodejs,figma" height="40"/>
@@ -48,7 +42,7 @@
 
   <h3><strong> 📖 Currently Studying </strong></h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="30%">
+    <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="25%">
   </p>
   
   <br>
