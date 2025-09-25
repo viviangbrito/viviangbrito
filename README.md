@@ -41,7 +41,7 @@
   <br>
 
   <h3><strong> 📖 Currently Studying </strong></h3>
-  <p>
+  <p align-items: center>
     <img src="https://skillicons.dev/icons?i=azure,react,linux,docker,n8n" width="25%">
   </p>
   
