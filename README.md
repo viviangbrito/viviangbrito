@@ -36,7 +36,6 @@
     <img align="center" alt="JS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="SQLite-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-    <img align="center" alt="SQLite-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/mongodb-original.svg">
     <img align="center" alt="MySQL-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="NodeJS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Figma-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
