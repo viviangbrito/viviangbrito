@@ -4,7 +4,7 @@
   <br>
   <a href="mailto:juliasalesnovaiss@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-
+</div>
   <a href="https://linkedin.com/in/julia-sales-novais" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
