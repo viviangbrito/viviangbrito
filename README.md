@@ -40,6 +40,16 @@
 <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=viviangbrito&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
 
 </div>
+
+<div align="center">
+  <a href="https://github.com/viviangbrito/github-readme-stats" valign="top">
+    <img 
+      valign="top" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangbrito&layout=compact&theme=dracula" 
+      width="36%" 
+      alt="Linguagens Mais Usadas" 
+    />
+</div>
 <br>
 
 <!---
