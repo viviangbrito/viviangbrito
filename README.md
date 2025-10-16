@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&width=435&lines=Hi!+I'm+V%C3%ADvian;Welcome+to+my+Github+Page+%E2%98%BB+%E2%99%A5+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&width=435&lines=Hi%2C+I'm+V%C3%ADvian!;Welcome+to+my+Github+page+%E2%9D%A4%EF%B8%8E%E2%97%9D(%E1%B5%94%E1%B5%95%E1%B5%94)%E2%97%9C" alt="Typing SVG" /></a>
   <br>
   <a href="mailto:juliasalesnovaiss@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
