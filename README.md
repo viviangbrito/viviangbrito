@@ -29,7 +29,7 @@
  
  <div align="center">
   <br><h2></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=viviangbrito&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viviangbrito&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle">
  </div>
  
 <br><h2></h2><br>
